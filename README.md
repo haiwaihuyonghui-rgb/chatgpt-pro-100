@@ -1,6 +1,6 @@
 # ChatGPT Pro 100 美金档位国内怎么买 2026：Pro 100 / 200 / 500 三档区别、和 Plus 差在哪、四种开通方法
 
-> 最后更新：2026-10-27 · 新建：Pro 三档按 OpenAI 帮助中心《About ChatGPT Pro tiers》10-27 当天原文整理（Ultrafast、额度消耗倍率、Pro 200 老用户额度保留到 10-29）；四种开通方法和风险。
+> 最后更新：2026-10-27 · 相关攻略加组织目录页链接（yaoyao-ai-trainer.github.io）
 
 ChatGPT Pro 100 是什么？和 Pro 200、Pro 500 差在哪？比 Plus 多了什么、值不值得？人在国内、没有海外信用卡，Pro 怎么开通？这一页按 OpenAI 官方帮助中心和定价页能核实的内容讲清楚，每条附链接和核对日期。
 
@@ -239,6 +239,7 @@ A Chinese-language guide to ChatGPT Pro 100 (the $100/month tier) in 2026, based
 - [claude-code-guide-cn](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)：Claude Code 国内使用指南：安装、登录、Pro / Max 额度、常见报错
 - [grok-premium](https://github.com/haiwaihuyonghui-rgb/grok-premium)：Grok Premium（原 SuperGrok）国内怎么买：官方四档、三合一说明、四种开通方法
 - [ai-subscription-guide-cn](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn)：AI 会员订阅国内指南：ChatGPT / Claude / Gemini / Grok 开通路线对比、常见报错速查
+- 组织目录页 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)：以后新攻略会交替放在组织号 yaoyao-ai-trainer 下，这个页面汇总两边全部攻略。
 
 ---
 
