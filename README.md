@@ -1,23 +1,20 @@
-**📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（本文已并入合集 [ChatGPT Pro 100 美金档位](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/chatgpt-pro-100.md)，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
-
 # ChatGPT Pro 100 美金档位国内怎么买 2026：Pro 100 / 200 / 500 三档区别、和 Plus 差在哪、四种开通方法
 
-> 最后更新：2026-10-27 · 相关攻略加组织目录页链接（yaoyao-ai-trainer.github.io）
+> 最后更新：2026-10-28 · 合集导流行移到快速购买下面，自家商城链接减到 5 个以内，开通时间统一写"平均 2 分钟"；许可证改为 CC BY-ND 4.0。
 
 ChatGPT Pro 100 是什么？和 Pro 200、Pro 500 差在哪？比 Plus 多了什么、值不值得？人在国内、没有海外信用卡，Pro 怎么开通？这一页按 OpenAI 官方帮助中心和定价页能核实的内容讲清楚，每条附链接和核对日期。
 
 **立场说明：** 本仓库由"瑶瑶ai训练师"整理，作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测。正文先讲官方规则和四种开通方法，代充只作为其中一种来写，作者商城的价格和链接统一放在最后一节。本文与 OpenAI 没有隶属关系，也没有授权，品牌名仅用于说明。
 
 <!-- 快速购买:开始（周更脚本会核对这里的价格） -->
-**快速购买**（作者自营商城 kw.yaoyao.chat，人民币，2026-10-27 核对，实际以商品页为准）：
+**快速购买**（作者自营商城 kw.yaoyao.chat，人民币，2026-10-28 核对，实际以商品页为准）：
 
-- ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100)
-- ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100)
-- ChatGPT Pro（200 美金档位）一个月 ¥1399 → [kw.yaoyao.chat/item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100) · （500 美金档位）¥3499 → [kw.yaoyao.chat/item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100)
+- ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100)（同一个下单页可选 200 / 500 美金档位 ¥1399 / ¥3499）
+- ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100)（同一个下单页可选三个月 ¥387、六个月 ¥774、十二个月 ¥1548，都是 ¥129 × 月数）
 - 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
-
-你是从哪里知道这个仓库的？点一下帮我们统计：[搜索引擎](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100&utm_content=search) · [AI 推荐](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100&utm_content=ai) · [朋友/群里发的](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100&utm_content=friend) · [GitHub 站内](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100&utm_content=github)
 <!-- 快速购买:结束 -->
+
+更多教程见：[全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)
 
 ## 目录
 
@@ -161,17 +158,17 @@ OpenAI 公布了支持的国家和地区列表（[Supported countries and territ
 
 上面四种方法里，"代充"有很多家在做，瑶瑶ai训练师的商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100) 是其中一家，也就是本仓库作者自己的店。下面如实列出价格、流程和售后规则，你可以拿上面的 6 个判断点逐条对照。
 
-**价格（人民币，2026-10-27 逐个 curl 商品页核对，实际以商品页为准）：**
+**价格（人民币，2026-10-27 逐个 curl 商品页核对，实际以商品页为准）：** 下单都在 kw.yaoyao.chat 对应商品的同一个下单页里选时长或档位。
 
-| 商品 | 价格 | 官方价约合（不含税） | 开通方式 | 下单 |
-|---|---|---|---|---|
-| ChatGPT Pro 一个月（100 美金档位） | ¥699 | 约 ¥667 | 付款后在订单页填开通信息，人工开通 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100) |
-| ChatGPT Pro 一个月（200 美金档位） | ¥1399 | 约 ¥1,334 | 同上 | [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100) |
-| ChatGPT Pro 一个月（500 美金档位） | ¥3499 | 约 ¥3,335 | 同上 | [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100) |
-| ChatGPT Plus 一个月（对照） | ¥129 | 约 ¥133 | 付款后显示卡密，到 cz.yaoyao.chat 自助开通，一般 1～3 分钟 | [item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100) |
+| 商品 | 价格 | 官方价约合（不含税） | 开通方式 |
+|---|---|---|---|
+| ChatGPT Pro 一个月（100 美金档位） | ¥699 | 约 ¥667 | 付款后在订单页填开通信息，平均 2 分钟到账 |
+| ChatGPT Pro 一个月（200 美金档位） | ¥1399 | 约 ¥1,334 | 和 100 美金档位同一个下单页选档位；开通方式同上 |
+| ChatGPT Pro 一个月（500 美金档位） | ¥3499 | 约 ¥3,335 | 和 100 美金档位同一个下单页选档位；开通方式同上 |
+| ChatGPT Plus 一个月（对照） | ¥129 | 约 ¥133 | 付款后显示卡密，到 cz.yaoyao.chat 自助开通，平均 2 分钟到账 |
 
 - 商品名里的"5X / 10X / 25X"是通行叫法，官方只按价格叫 Pro 100 / 200 / 500。
-- 已经是 Plus、想换 Pro 的，不用重买，见 [Plus 升级 Pro 怎么补差价](https://kw.yaoyao.chat/guide/plus-sheng-pro.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100)；三档怎么选的网页版：[ChatGPT Pro 100 / 200 / 500 怎么选](https://kw.yaoyao.chat/guide/chatgpt-pro.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100)。
+- 已经是 Plus、想换 Pro 的，不用重买，补差价即可，怎么办理见同一作者 gpt-chongzhi 仓库 [chatgpt-pro.md 的常见问题](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/chatgpt-pro.md#常见问题)。
 - 老客户回购每单减 ¥5；开发票加收 10%；实际金额以下单页为准。付款方式：支付宝、微信。
 
 **Pro 怎么开通（4 步）：**
@@ -179,7 +176,7 @@ OpenAI 公布了支持的国家和地区列表（[Supported countries and territ
 1. 确认 ChatGPT 账号能正常登录，记住登录方式（邮箱、Google、Apple 还是手机号）。
 2. 在 kw.yaoyao.chat 下单对应档位，用支付宝或微信付款。
 3. 付款后在订单页按提示填写开通信息并提交，不用先加微信。开通信息是电脑浏览器登录 chatgpt.com 后，打开 chatgpt.com/api/auth/session 复制的那一整段文字；不要密码、不要验证码。开通后在 ChatGPT「设置 → 安全」里退出所有设备，这段文字就失效。
-4. 瑶瑶人工开通到你自己的账号，商品页写明 10 分钟内开通（客服时间内）。开通后在 ChatGPT 设置的订阅页确认档位。
+4. 瑶瑶开通到你自己的账号，付款并填好信息后平均 2 分钟到账。开通后在 ChatGPT 设置的订阅页确认档位。
 
 **售后三条（全部商品通用，原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100)）：**
 
@@ -187,7 +184,7 @@ OpenAI 公布了支持的国家和地区列表（[Supported countries and territ
 2. **开通成功后掉会员**（本期有效期内订阅被撤销、变回免费版）：凭订单号和截图，再补一个月，补到同一个账号。
 3. **账号被封 / 停用：** 不在质保范围、不退款；ChatGPT 封号可协助重新注册一个账号。
 
-**客服：** 只找瑶瑶本人微信 **yao77380**（加不上加备用号 yym77288），客服时间 09:00–24:00（北京时间），0 点到 9 点之间提交的 9 点后按顺序开通。主动加你、自称"客服 / 助理"的不是我们；网址只有 www.yaoyao.chat、kw.yaoyao.chat、cz.yaoyao.chat 三个，见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100)。
+**客服：** 只找瑶瑶本人微信 **yao77380**（加不上加备用号 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们；网址只有 `www.yaoyao.chat`、`kw.yaoyao.chat`、`cz.yaoyao.chat` 三个（官网上的《官方账号与防骗说明》有完整名单）。
 
 **关于作者：** 瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，各账号相加，[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100#jietu)）。
 
@@ -220,6 +217,7 @@ A：不能。付款不是你本人完成的，有问题找卖家。
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
+| 2026-10-28 | **价格：** 按作者商城事实卡 yy-facts.json（每 15 分钟从商城数据库生成）核对全部商品 | 与本页"快速购买"和价格表一致，无变动；开通时间统一写"平均 2 分钟" |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19 和 llms.txt | 与本页价格表一致（Pro 100 美金档位 ¥699、200 美金档位 ¥1399、500 美金档位 ¥3499、Plus ¥129），无变动 |
 | 2026-10-27 | **官方价格与规则：** 浏览器打开 About ChatGPT Pro tiers、What is ChatGPT Plus | Pro 100 / 200 / 500 美元、只能月付；只有 Pro 500 含 Ultrafast；Fast 2.5 倍、Ultrafast 8 倍消耗额度；Pro 200 老用户旧额度保留到 10-29；Plus 20 美元/月、只能月付 |
 | 2026-10-27 | **官方政策：** ChatGPT 定价页付款 FAQ、OpenAI 礼品卡文章 | 付款写"任何主要信用卡"；礼品卡只限美国、只能网页兑换、不能用于 App 内购 |
@@ -241,8 +239,8 @@ A Chinese-language guide to ChatGPT Pro 100 (the $100/month tier) in 2026, based
 - [claude-code-guide-cn](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)：Claude Code 国内使用指南：安装、登录、Pro / Max 额度、常见报错
 - [grok-premium](https://github.com/haiwaihuyonghui-rgb/grok-premium)：Grok Premium（原 SuperGrok）国内怎么买：官方四档、三合一说明、四种开通方法
 - [ai-subscription-guide-cn](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn)：AI 会员订阅国内指南：ChatGPT / Claude / Gemini / Grok 开通路线对比、常见报错速查
-- 组织目录页 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)：以后新攻略会交替放在组织号 yaoyao-ai-trainer 下，这个页面汇总两边全部攻略。
+- [全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)：组织号 yaoyao-ai-trainer 下的合集目录，每章是摘要，正文以各仓库为准。
 
 ---
 
-整理：瑶瑶ai训练师（AI 内容创作者），[官网](https://www.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-pro-100)。本仓库为非官方教程整理，作者自营代充商城，已在文中如实披露；与 OpenAI 没有隶属关系，品牌名仅用于说明。内容采用 CC-BY-4.0 许可，转载请注明出处。
+整理：瑶瑶ai训练师（AI 内容创作者）。本仓库为非官方教程整理，作者自营代充商城，已在文中如实披露；与 OpenAI 没有隶属关系，品牌名仅用于说明。自 2026-10-28 起的版本采用 [CC BY-ND 4.0](LICENSE) 许可：可以原样转载，须署名"瑶瑶ai训练师"并附原文链接 https://github.com/haiwaihuyonghui-rgb/chatgpt-pro-100 ；不许改编、改写后发布。
